@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinkedListPython", "LinkedListPython\LinkedListPython.pyproj", "{046BD814-D9E4-42E3-B7ED-51FD365510EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046BD814-D9E4-42E3-B7ED-51FD365510EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046BD814-D9E4-42E3-B7ED-51FD365510EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6BB4D05-59DE-4EF4-A6A2-20D54A7B53A9}
+	EndGlobalSection
+EndGlobal
